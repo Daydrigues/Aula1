@@ -1,1 +1,2 @@
-;
+Aula sobre Tipos Primitivos
+
